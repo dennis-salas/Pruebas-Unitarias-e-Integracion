@@ -34,6 +34,10 @@
     ]
   },
   "devDependencies": {
+<<<<<<< HEAD
+=======
+    "enzyme": "^3.11.0",
+>>>>>>> a7f4a428716250b39c04779b52a486c13c642ba7
     "enzyme-adapter-react-16": "^1.15.6",
     "enzyme-to-json": "^3.6.2"
   }
