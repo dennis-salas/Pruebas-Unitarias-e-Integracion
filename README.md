@@ -37,5 +37,14 @@
 # ¿Qué es toStrictEqual y para qué sirve?
 ### Se usa para probar que los objetos tienen los mismos tipos y estructura.
 
+##Que hace el siguient codigo ![preguntas](https://user-images.githubusercontent.com/24297887/128088075-f2dfa40d-659a-4753-a55f-c9fe66b52274.PNG)
+![preguntas2](https://user-images.githubusercontent.com/24297887/128088098-1931a642-dbf0-4d1d-b82c-7e9ef628b6e7.PNG)
+
+1. realiza una prueba que espera resibir mejorSabor() y  dentro de esa funcion que haya una variable igual(Tobe) a melocotón
+
+2.realiza una prueba que espera resibir mejorSaborLaCroix() y  dentro de esa funcion que haya una variable diferente(not.tobe) a coco.
+
+3.se crea unas constantes para simular que se resiben el usuario esto lo hace con el dispatch,  el wrapper es el indicador de el contenedor que es AppRouter se obtine los datos del usuario de AuthContext
+espera un foto del componente y espera que el elemento navbar exista y sea igual a verdadero
 
 
