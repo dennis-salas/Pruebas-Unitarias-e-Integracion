@@ -37,8 +37,12 @@
 # ¿Qué es toStrictEqual y para qué sirve?
 ### Se usa para probar que los objetos tienen los mismos tipos y estructura.
 
-##Que hace el siguient codigo ![preguntas](https://user-images.githubusercontent.com/24297887/128088075-f2dfa40d-659a-4753-a55f-c9fe66b52274.PNG)
+##Que hace el siguient codigo
+##
+![preguntas](https://user-images.githubusercontent.com/24297887/128088714-c757dcc2-f126-4602-8ec5-87dd23b2d95d.PNG)
+
 ![preguntas2](https://user-images.githubusercontent.com/24297887/128088098-1931a642-dbf0-4d1d-b82c-7e9ef628b6e7.PNG)
+
 
 1. realiza una prueba que espera resibir mejorSabor() y  dentro de esa funcion que haya una variable igual(Tobe) a melocotón
 
